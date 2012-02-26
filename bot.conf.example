@@ -1,0 +1,9 @@
+[MYSQL]
+host = localhost
+user = rei
+passwd = dbpass
+dbname = jabberlogbot
+
+[JABBER]
+user = jabberlogbot@luisrei.com
+passwd = passowrd
